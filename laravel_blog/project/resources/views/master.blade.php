@@ -66,9 +66,9 @@
             	<div class="templatemo_right_section">
 					<div class="tag_section">
                         <ul id="countrytabs" class="shadetabs">
-                            <li><a href="#" rel="search" class="selected">Search</a></li>                
-                            <li><a href="#" rel="category">Category</a></li>
-                            <li><a href="#" rel="archive">Archive</a></li>
+                                            
+                            <li><a href="#" rel="category">Category Search</a></li>
+                           
                         </ul>
 					</div>
 				
@@ -95,15 +95,7 @@
                             </ul>                        
                         </div>
 		            
-                        <div id="archive" class="tabcontent">
-                            <ul>
-                                <li><a href="#">January 2049</a></li>
-                                <li><a href="#">December 2048</a></li>
-                                <li><a href="#">November 2048</a></li>
-                                <li><a href="#">October 2048</a></li>
-                                <li><a href="#">September 2048</a></li>
-                            </ul>                         
-                        </div>
+                      
 					</div>
 
 					<script type="text/javascript">
@@ -153,15 +145,7 @@
                     </ul>  
                 </div>
               
-                
-                <div class="templatemo_right_section">
-                	<h2>Search</h2>
-					<form method="get" action="#">
-                        <input class="inputfield" name="keyword" type="text" id="keyword"/>
-                        <input type="submit" name="submit" class="button" value="Search" />
-                    </form>
-                </div>
-                
+              
             </div> <!-- end of right content -->
 	    </div> <!-- end of content -->
     </div> <!-- end of content container -->
